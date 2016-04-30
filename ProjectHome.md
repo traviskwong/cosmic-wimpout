@@ -1,0 +1,1 @@
+The is an application for playing Cosmic Wimpout
